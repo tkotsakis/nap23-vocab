@@ -1,5 +1,5 @@
 {
-    "version": 1,
+    "version": 2,
     "db_gz_url": "https://tkotsakis.github.io/nap23-vocab/words.db.gz",
-    "sha256": "10fe0323f3f71b016159a7a4aac24f67bd8171c624225d3aa1942d57d0147727"
+    "sha256": "e239076c422abe3bd556b7bd5b7708e4dc5cd761bc69a61e0265d5f7fed86fd8"
 }
